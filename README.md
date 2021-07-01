@@ -1,3 +1,7 @@
+# Disney Clone
+<a href="https://disneyclone-9f322.web.app" >Live Demo </a>
+<img src="https://imguploader.net/if/ddMYEQGNGxp0.png" alt="img" />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
